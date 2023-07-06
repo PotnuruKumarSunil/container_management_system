@@ -1,7 +1,7 @@
 # Container Management System
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![alt text](https://github.com/PotnuruKumarSunil/container_management_system/homeScreen.png)
+![alt text](https://github.com/PotnuruKumarSunil/container_management_system/blob/main/homeScreen.png)
 
 New for docker containerization ??
 No worries, your management system is here.. <br />
