@@ -73,7 +73,7 @@ As cloud itself is kinda virtualization, running containers in cloud would alway
 The same technology can also be used for k8's. That would help developers and testers with much better options for backups, storages and maintainance.
 
 ## Contact
-Potnuru Kumar Sunil - sunilkumar26666@gmail.com
+Potnuru Kumar Sunil - sunilpotnuru369@gmail.com
 
 Project Link: [https://github.com/PotnuruKumarSunil/container_management_system](https://github.com/PotnuruKumarSunil/container_management_system.git)
 
